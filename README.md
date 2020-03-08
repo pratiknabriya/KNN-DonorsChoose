@@ -1,6 +1,6 @@
 ## Objective
 
-To predict if the project proposal to DonorsChoose.org will get approved or not using K-nearest Neighors algorithm. 
+Apply K-nearest Neighors (KNN) algorithm to predict if the project proposal submitted to DonorsChoose.org will get approved or not.  
 
 ## About DonorsChoose
 
